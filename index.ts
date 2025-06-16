@@ -41,4 +41,8 @@ export declare function getOptionsByPreset (optionsPreset: TOptionsPreset): TInp
  */
 export declare const version: string;
 
+exports.obfuscate = JavaScriptObfuscator.obfuscate;
+exports.obfuscateMultiple = JavaScriptObfuscator.obfuscateMultiple;
+exports.getOptionsByPreset = JavaScriptObfuscator.getOptionsByPreset;
+exports.version = JavaScriptObfuscator.version;
 module.exports = JavaScriptObfuscator;
