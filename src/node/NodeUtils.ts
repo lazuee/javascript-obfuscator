@@ -1,4 +1,4 @@
-import * as escodegen from '@javascript-obfuscator/escodegen';
+import * as escodegen from '@rzbz/escodegen';
 import * as estraverse from '@javascript-obfuscator/estraverse';
 import * as ESTree from 'estree';
 
