@@ -31,7 +31,8 @@
   "files": [
     "LICENSE.BSD",
     "typings",
-    "dist"
+    "dist",
+    "bin"
   ],
   "dependencies": {
     "@javascript-obfuscator/estraverse": "5.4.0",
