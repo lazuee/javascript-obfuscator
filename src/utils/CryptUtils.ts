@@ -45,6 +45,7 @@ export class CryptUtils implements ICryptUtils {
             });
         } catch {
             output = string;
+
             return output;
         }
 
